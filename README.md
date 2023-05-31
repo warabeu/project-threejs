@@ -1,4 +1,6 @@
-# t-shirt-threejs :shirt:
+# project-threejs :shirt:
+
+![Screenshot (23)](https://github.com/warabeu/project-threejs/assets/58329902/b4c94357-664e-45f3-be4e-e4b3bea1a64d)
 
 ThreeJS 3D product website and infuse it with the power of artificial intelligence! :technologist:
 :shirt::shirt::shirt:
