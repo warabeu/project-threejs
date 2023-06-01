@@ -4,6 +4,8 @@
 
 ![Screenshot (24)](https://github.com/warabeu/project-threejs/assets/58329902/ccc4718b-c182-4728-b231-f52786482bfa)
 
+![Screenshot (25)](https://github.com/warabeu/project-threejs/assets/58329902/043f718f-52fa-442c-bdb7-979043b4dfa8)
+
 ThreeJS 3D product website and infuse it with the power of artificial intelligence! :technologist:
 :shirt::shirt::shirt:
 In this course, I learned: 
